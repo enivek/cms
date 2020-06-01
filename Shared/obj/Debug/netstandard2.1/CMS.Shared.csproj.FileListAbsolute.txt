@@ -1,0 +1,8 @@
+C:\Users\Kevin\Documents\deleteme\CMS\Shared\bin\Debug\netstandard2.1\CMS.Shared.deps.json
+C:\Users\Kevin\Documents\deleteme\CMS\Shared\bin\Debug\netstandard2.1\CMS.Shared.dll
+C:\Users\Kevin\Documents\deleteme\CMS\Shared\bin\Debug\netstandard2.1\CMS.Shared.pdb
+C:\Users\Kevin\Documents\deleteme\CMS\Shared\obj\Debug\netstandard2.1\CMS.Shared.AssemblyInfoInputs.cache
+C:\Users\Kevin\Documents\deleteme\CMS\Shared\obj\Debug\netstandard2.1\CMS.Shared.AssemblyInfo.cs
+C:\Users\Kevin\Documents\deleteme\CMS\Shared\obj\Debug\netstandard2.1\CMS.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Documents\deleteme\CMS\Shared\obj\Debug\netstandard2.1\CMS.Shared.dll
+C:\Users\Kevin\Documents\deleteme\CMS\Shared\obj\Debug\netstandard2.1\CMS.Shared.pdb
